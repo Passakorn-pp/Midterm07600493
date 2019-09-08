@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Midterm 07600493</string>
+    <string name="Name" translatable="false">Passakorn Baokaew</string>
+    <string name="add_to_story">Add to Story</string>
+    <string name="view_as">View As</string>
+    <string name="edit_profile">Edit Profile</string>
+    <string name="more">More</string>
+    <string name="goes_to">Goes to</string>
+    <string name="lives_in">Lives in</string>
+    <string name="from">From</string>
+    <string name="Get_Live_in" translatable="false">กรุงเทพมหานคร</string>
+    <string name="Get_Form" translatable="false">กรุงเทพมหานคร</string>
+    <string name="Get_Goes_To" translatable="false">มหาวิทยาลัยศิลปากร</string>
+    <string name="login_to_facebook">Login To Facebook</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="login">LOGIN</string>
+    <string name="promlert_lovichit" translatable="false">Promlert Lovichit</string>
+    <string name="From" translatable="false">กรุงเทพมหานคร</string>
+    <string name="Lives" translatable="false">กรุงเทพมหานคร</string>
+    <string name="Goes" translatable="false">สวนกุหลาบวิทยาลัย</string>
+</resources>
